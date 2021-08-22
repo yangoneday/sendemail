@@ -1,2 +1,4 @@
-# testGit
-测试git代码托管
+# sendEmail
+
+1.下载项目
+2.
