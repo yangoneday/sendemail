@@ -1,0 +1,10 @@
+spring:
+  mail:
+    host: smtp.163.com
+    password: REEQGVNRKUXPTBGL
+    username: finalcheny@163.com
+    default-encoding: UTF-8
+
+mail:
+  fromMail:
+    addr: finalcheny@163.com
