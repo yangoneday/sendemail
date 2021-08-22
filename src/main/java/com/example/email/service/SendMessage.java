@@ -5,5 +5,5 @@ public interface SendMessage {
     /**
      * 消息发送
      */
-    void sendMessage(String[] to,String subject,String content);
+    void sendMessage(String to,String subject,String content);
 }

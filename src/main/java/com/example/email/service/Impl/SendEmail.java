@@ -23,7 +23,7 @@ public class SendEmail implements SendMessage {
     private String from;
 
     @Override
-    public void sendMessage(String[] to, String subject, String content) {
+    public void sendMessage(String to, String subject, String content) {
         SimpleMailMessage simpleMailMessage = new SimpleMailMessage();
         simpleMailMessage.setFrom(from);
         simpleMailMessage.setTo(to);
