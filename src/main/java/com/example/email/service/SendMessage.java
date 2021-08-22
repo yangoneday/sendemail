@@ -1,5 +1,8 @@
 package com.example.email.service;
 
+/**
+ * 消息发送类
+ */
 public interface SendMessage {
 
     /**

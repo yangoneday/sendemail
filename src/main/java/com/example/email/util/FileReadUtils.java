@@ -14,7 +14,7 @@ public class FileReadUtils {
 
     /**
      * 读取text文件
-     * @param filePath 文件路径
+     * @param inputStream 文件流
      * @return
      */
     public static List<String> readTxt(InputStream inputStream) throws IOException {
